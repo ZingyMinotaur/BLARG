@@ -1,0 +1,520 @@
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46839
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46845
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46851
+
+Client command is: touch junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46857
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46871
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46877
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46883
+
+Client command is: touch junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46889
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46901
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46907
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46913
+
+Client command is: touch junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46919
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46935
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46941
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46947
+
+Client command is: touch junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46954
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46963
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46969
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46975
+
+Client command is: touch junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 1 **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46981
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:23 CDT 2018
+Process ID is 46989
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:23 CDT 2018
+Process ID is 46996
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:23 CDT 2018
+Process ID is 47002
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:23 CDT 2018
+Process ID is 47008
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:25 CDT 2018
+Process ID is 47015
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:25 CDT 2018
+Process ID is 47021
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:25 CDT 2018
+Process ID is 47027
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:25 CDT 2018
+Process ID is 47033
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:28 CDT 2018
+Process ID is 47041
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:28 CDT 2018
+Process ID is 47047
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:28 CDT 2018
+Process ID is 47053
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:28 CDT 2018
+Process ID is 47059
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:30 CDT 2018
+Process ID is 47067
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:30 CDT 2018
+Process ID is 47073
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:30 CDT 2018
+Process ID is 47079
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:30 CDT 2018
+Process ID is 47085
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:32 CDT 2018
+Process ID is 47092
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:32 CDT 2018
+Process ID is 47098
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:32 CDT 2018
+Process ID is 47104
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:32 CDT 2018
+Process ID is 47111
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:34 CDT 2018
+Process ID is 47127
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:34 CDT 2018
+Process ID is 47133
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:34 CDT 2018
+Process ID is 47139
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:34 CDT 2018
+Process ID is 47145
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:36 CDT 2018
+Process ID is 47153
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:36 CDT 2018
+Process ID is 47159
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:36 CDT 2018
+Process ID is 47165
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:36 CDT 2018
+Process ID is 47171
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:38 CDT 2018
+Process ID is 47185
+
+Client command is: date
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:38 CDT 2018
+Process ID is 47191
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:38 CDT 2018
+Process ID is 47197
+
+Client command is: rm -f junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 2 **********
+
+Current date and time is: Sat Jul 28 15:21:38 CDT 2018
+Process ID is 47203
+
+Client command is: ls -l junk.txt
+**********  END OF LOG **********
+------------------------------------------------------
+

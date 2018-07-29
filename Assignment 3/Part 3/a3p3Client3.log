@@ -1,0 +1,591 @@
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:21 CDT 2018
+Process ID is 46757
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:53 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:53 CDT 2018
+Process ID is 47005
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:53 CDT 2018
+Process ID is 47011
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:53 CDT 2018
+Process ID is 47017
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:54 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:54 CDT 2018
+Process ID is 47024
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:54 CDT 2018
+Process ID is 47030
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:54 CDT 2018
+Process ID is 47036
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:55 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:55 CDT 2018
+Process ID is 47051
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:55 CDT 2018
+Process ID is 47057
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:55 CDT 2018
+Process ID is 47063
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:56 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:56 CDT 2018
+Process ID is 47070
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:56 CDT 2018
+Process ID is 47076
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:56 CDT 2018
+Process ID is 47082
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:57 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:57 CDT 2018
+Process ID is 47089
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:57 CDT 2018
+Process ID is 47095
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:57 CDT 2018
+Process ID is 47101
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:58 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:58 CDT 2018
+Process ID is 47108
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:58 CDT 2018
+Process ID is 47114
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:58 CDT 2018
+Process ID is 47120
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:59 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:59 CDT 2018
+Process ID is 47127
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:59 CDT 2018
+Process ID is 47133
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:00 CDT 2018
+Process ID is 47139
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:01 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:01 CDT 2018
+Process ID is 47146
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:01 CDT 2018
+Process ID is 47152
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:01 CDT 2018
+Process ID is 47158
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:02 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:02 CDT 2018
+Process ID is 47165
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:02 CDT 2018
+Process ID is 47171
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:02 CDT 2018
+Process ID is 47177
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:03 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:03 CDT 2018
+Process ID is 47184
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:03 CDT 2018
+Process ID is 47190
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:03 CDT 2018
+Process ID is 47196
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:04 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:04 CDT 2018
+Process ID is 47202
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:04 CDT 2018
+Process ID is 47209
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:04 CDT 2018
+Process ID is 47215
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:05 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:05 CDT 2018
+Process ID is 47221
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:05 CDT 2018
+Process ID is 47227
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:05 CDT 2018
+Process ID is 47233
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:06 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:06 CDT 2018
+Process ID is 47240
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:06 CDT 2018
+Process ID is 47246
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:06 CDT 2018
+Process ID is 47252
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:07 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:07 CDT 2018
+Process ID is 47259
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:07 CDT 2018
+Process ID is 47265
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:07 CDT 2018
+Process ID is 47271
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:34:08 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:08 CDT 2018
+Process ID is 47278
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:08 CDT 2018
+Process ID is 47284
+
+Command sent was: uname -a
+Result received from the server: 
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:34:09 CDT 2018
+Process ID is 47290
+

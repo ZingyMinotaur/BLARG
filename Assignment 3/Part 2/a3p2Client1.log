@@ -1,0 +1,261 @@
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46837
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 15:21:07 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46843
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:20 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46849
+
+Command sent was: touch junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46855
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:07 CDT 2018
+Process ID is 46861
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 15:21:11 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46875
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46881
+
+Command sent was: touch junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46887
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:11 CDT 2018
+Process ID is 46893
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 15:21:14 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46905
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46911
+
+Command sent was: touch junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46917
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:14 CDT 2018
+Process ID is 46923
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 15:21:17 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46939
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46945
+
+Command sent was: touch junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46952
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:17 CDT 2018
+Process ID is 46958
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 15:21:20 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46967
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46973
+
+Command sent was: touch junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46979
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 15:21 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 15:21:20 CDT 2018
+Process ID is 46985
+

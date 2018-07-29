@@ -1,0 +1,44 @@
+------------------------------------------------------
+********** Client number is 4 **********
+
+Current date and time is: Sat Jul 28 20:43:19 CDT 2018
+Process ID is 34908
+
+Client command is: ls
+
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 4 **********
+
+Current date and time is: Sat Jul 28 20:43:23 CDT 2018
+Process ID is 34916
+
+Client command is: ps
+
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 4 **********
+
+Current date and time is: Sat Jul 28 20:43:29 CDT 2018
+Process ID is 34926
+
+Client command is: pwd
+
+**********  END OF LOG **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Client number is 4 **********
+
+Current date and time is: Sat Jul 28 20:43:44 CDT 2018
+Process ID is 35049
+
+Client command is: ls | grep ".c"
+
+**********  END OF LOG **********
+------------------------------------------------------
+

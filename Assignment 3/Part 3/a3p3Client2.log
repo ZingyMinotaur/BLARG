@@ -1,0 +1,196 @@
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:20 CDT 2018
+Process ID is 46753
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:37 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:37 CDT 2018
+Process ID is 46902
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+-rw-------+ 1 pxp165330 sn 0 Jul 28 22:33 junk.txt
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:37 CDT 2018
+Process ID is 46908
+
+Command sent was: rm -f junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:37 CDT 2018
+Process ID is 46914
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:40 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:40 CDT 2018
+Process ID is 46922
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:40 CDT 2018
+Process ID is 46928
+
+Command sent was: rm -f junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:40 CDT 2018
+Process ID is 46934
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:43 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:43 CDT 2018
+Process ID is 46943
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:43 CDT 2018
+Process ID is 46949
+
+Command sent was: rm -f junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:43 CDT 2018
+Process ID is 46955
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:46 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:46 CDT 2018
+Process ID is 46964
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:46 CDT 2018
+Process ID is 46970
+
+Command sent was: rm -f junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:46 CDT 2018
+Process ID is 46976
+
+Command sent was: date
+Result received from the server: 
+Sat Jul 28 22:33:49 CDT 2018
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:49 CDT 2018
+Process ID is 46985
+
+Command sent was: ls -l junk.txt
+Result received from the server: 
+ls: cannot access junk.txt: No such file or directory
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:50 CDT 2018
+Process ID is 46991
+
+Command sent was: rm -f junk.txt
+Result received from the server: 
+
+********** End Client Log   **********
+------------------------------------------------------
+
+------------------------------------------------------
+********** Begin Client Log **********
+
+Current date and time is: Sat Jul 28 22:33:50 CDT 2018
+Process ID is 46997
+

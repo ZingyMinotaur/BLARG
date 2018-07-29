@@ -1,0 +1,20 @@
+all: a3p1Server a3p1Client a3p2Server a3p2Client1 a3p2Client2 a3p3Server a3p3Client1 a3p3Client2 a3p3Client3
+
+a3p1Server: a3p1Server.c
+	g++ a3p1Server.c -o a3p1Server -lnsl -lpthread
+a3p1Client: a3p1Client.c
+	g++ a3p1Client.c -o a3p1Client
+a3p2Server: a3p2Server.c
+	g++ a3p2Server.c -o a3p2Server -lnsl -lpthread
+a3p2Client1: a3p2Client1.c
+	g++ a3p2Client1.c -o a3p2Client1
+a3p2Client2: a3p2Client2.c
+	g++ a3p2Client2.c -o a3p2Client2
+a3p3Server: a3p3Server.c
+	g++ a3p3Server.c -o a3p3Server -lnsl -lpthread
+a3p3Client1: a3p3Client1.c
+	g++ a3p3Client1.c -o a3p3Client1
+a3p3Client2: a3p3Client2.c
+	g++ a3p3Client2.c -o a3p3Client2
+a3p3Client3: a3p3Client3.c
+	g++ a3p3Client3.c -o a3p3Client3
